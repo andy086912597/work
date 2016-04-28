@@ -1,0 +1,64 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:3:5-48
+	android:versionName
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:5:5-30
+		INJECTED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml
+		INJECTED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:4:5-28
+		INJECTED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml
+		INJECTED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:7:5-27:19
+MERGED from [com.android.support:support-v4:22.1.1] D:\newandroidex\Work\CreditCardEntryDemo1\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.1.1] D:\newandroidex\Work\CreditCardEntryDemo1\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:9:9-45
+	android:theme
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:11:9-40
+activity#com.devmarvel.creditcardentrydemo.MainActivity
+ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:12:9-21:20
+	android:label
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:15:13-45
+	android:windowSoftInputMode
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:14:13-55
+	android:name
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:13:13-74
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:19:27-74
+activity#com.devmarvel.creditcardentrydemo.SimpleActivity
+ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:22:9-26:20
+	android:label
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:25:13-45
+	android:windowSoftInputMode
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:24:13-55
+	android:name
+		ADDED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml:23:13-76
+uses-sdk
+INJECTED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [Work:CreditCardEntry:unspecified] D:\newandroidex\Work\CreditCardEntryDemo1\build\intermediates\exploded-aar\Work\CreditCardEntry\unspecified\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:22.1.1] D:\newandroidex\Work\CreditCardEntryDemo1\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.1.1] D:\newandroidex\Work\CreditCardEntryDemo1\build\intermediates\exploded-aar\com.android.support\support-v4\22.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml
+		INJECTED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml
+		INJECTED from D:\newandroidex\Work\CreditCardEntryDemo1\AndroidManifest.xml

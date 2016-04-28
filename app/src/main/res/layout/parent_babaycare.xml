@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.yi_an.work.Parent_babaycare"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="66dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="="
+            android:id="@+id/textView27"
+            android:layout_weight="0.06"
+            android:onClick="btn_menu"
+            android:textSize="30sp"
+            android:background="#fb56c9" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="照育討論區"
+            android:id="@+id/textView28"
+            android:layout_weight="0.2"
+            android:textSize="30sp"
+            android:background="#fb56c9"
+            android:autoText="false" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="寶寶副食品討論"
+        android:id="@+id/button22"
+        android:contextClickable="false"
+        android:background="#dedede"
+        android:onClick="btn_babycare1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="寶寶尿布討論"
+        android:id="@+id/button23"
+        android:backgroundTint="#dedede"
+        android:onClick="btn_babycare2"/>
+</LinearLayout>

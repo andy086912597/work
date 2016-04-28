@@ -1,0 +1,106 @@
+<TabHost xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tabhost"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <TabWidget
+        android:id="@android:id/tabs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </TabWidget>
+
+    <FrameLayout
+        android:id="@android:id/tabcontent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <LinearLayout
+            android:id="@+id/tab1"
+            android:layout_marginTop="55dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <ListView
+                android:layout_marginTop="10px"
+                android:id="@+id/list"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:drawSelectorOnTop="true"
+                android:footerDividersEnabled="true"
+                android:headerDividersEnabled="true" >
+            </ListView>
+            <!-- <ImageView -->
+            <!-- android:layout_width="wrap_content" -->
+            <!-- android:layout_height="wrap_content" -->
+            <!-- android:layout_gravity="center" -->
+            <!-- android:src="@drawable/home" /> -->
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab2"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="55dp"
+            android:orientation="vertical" >
+
+
+            <Button
+                android:onClick="btn_addmilk"
+                android:layout_width="match_parent"
+                android:layout_height="200px"
+                android:text="+新增餵奶紀錄"
+                android:id="@+id/button11"
+                android:layout_marginTop="10px"/>
+
+            <Button
+                android:onClick="btn_addvice"
+                android:layout_width="match_parent"
+                android:layout_height="200px"
+                android:text="+新增附食品紀錄"
+                android:id="@+id/button12"
+                android:layout_marginTop="10px"/>
+
+            <Button
+                android:onClick="btn_addfruit"
+                android:layout_width="match_parent"
+                android:layout_height="200px"
+                android:text="+新增點心、水果紀錄"
+                android:id="@+id/button13"
+                android:layout_marginTop="10px"/>
+
+            <Button
+                android:onClick="btn_addshit"
+                android:layout_width="match_parent"
+                android:layout_height="200px"
+                android:text="+新增排便記錄"
+                android:id="@+id/button14"
+                android:layout_marginTop="10px"/>
+
+            <Button
+                android:onClick="btn_adddiaper"
+                android:layout_width="match_parent"
+                android:layout_height="200px"
+                android:text="+新增尿布記錄"
+                android:id="@+id/button15"
+                android:layout_marginTop="10px"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/tab3"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="55dp"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:contentDescription="123"
+                android:src="@drawable/l3" />
+        </LinearLayout>
+    </FrameLayout>
+
+</TabHost>

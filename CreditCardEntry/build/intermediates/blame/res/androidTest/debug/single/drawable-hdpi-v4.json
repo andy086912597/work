@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\discover.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\discover.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\cc_back.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\cc_back.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\diners_club.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\diners_club.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\unknown_cc.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\unknown_cc.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\amex.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\amex.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\visa.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\visa.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\master_card.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntry\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\master_card.png"
+    }
+]

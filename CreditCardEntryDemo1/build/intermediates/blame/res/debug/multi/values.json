@@ -1,0 +1,232 @@
+[
+    {
+        "outputFile": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 110,
+                    "endColumn": 51,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 49,
+                    "endOffset": 207
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\res\\values\\colors.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 828,
+                    "endColumn": 46,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 45,
+                    "endOffset": 916
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 921,
+                    "endColumn": 47,
+                    "endOffset": 964
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 969,
+                    "endColumn": 56,
+                    "endOffset": 1021
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1026,
+                    "endColumn": 45,
+                    "endOffset": 1067
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1072,
+                    "endColumn": 53,
+                    "endOffset": 1121
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1126,
+                    "endColumn": 45,
+                    "endOffset": 1167
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1172,
+                    "endColumn": 50,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 41,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 70,
+                    "endOffset": 1331
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1336,
+                    "endColumn": 64,
+                    "endOffset": 1396
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1401,
+                    "endColumn": 63,
+                    "endOffset": 1460
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1465,
+                    "endColumn": 41,
+                    "endOffset": 1502
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 41,
+                        "endOffset": 93
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1507,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 1793
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\res\\values\\styles.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1798,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "D:\\newandroidex\\Work\\CreditCardEntryDemo1\\res\\values\\styles.xml"
+                }
+            }
+        ]
+    }
+]

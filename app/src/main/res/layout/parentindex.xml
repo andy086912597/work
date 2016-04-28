@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.yi_an.work.Parentindex"
+    android:orientation="horizontal"
+    android:background="#ff569f">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.2"
+        android:background="#ff569f"
+        android:weightSum="1">
+
+
+        <Button
+            android:layout_marginTop="50px"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="主畫面"
+            android:id="@+id/button3"
+            android:layout_weight="0.05"
+            android:layout_marginBottom="20px"
+            android:background="#fea5c1"
+            android:onClick="btn_index"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="寶貝商城"
+            android:id="@+id/button4"
+            android:layout_weight="0.05"
+            android:layout_marginBottom="20px"
+            android:background="#fea5c1"
+            android:onClick="btn_babyshop"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="我的錢包"
+            android:id="@+id/button5"
+            android:layout_weight="0.05"
+            android:layout_marginBottom="20px"
+            android:background="#fea5c1"
+            android:onClick="btn_wallet"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="參觀托育中心紀錄"
+            android:id="@+id/button6"
+            android:layout_weight="0.05"
+            android:layout_marginBottom="20px"
+            android:background="#fea5c1"
+            android:onClick="btn_visitrecord"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="照育討論區"
+            android:id="@+id/button7"
+            android:layout_weight="0.05"
+            android:layout_marginBottom="20px"
+            android:background="#fea5c1"
+            android:onClick="btn_babycare"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="掃描QRcode"
+            android:id="@+id/button8"
+            android:layout_weight="0.05"
+            android:layout_marginBottom="20px"
+            android:background="#fea5c1"
+            android:onClick="btn_zing"/>
+
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="200px">
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="切換權限: 保姆"
+                android:id="@+id/button9"
+                android:layout_weight="0.5"
+                android:background="#fea5c1"
+                android:onClick="btn_babycarer"/>
+
+            <Button
+                style="?android:attr/buttonStyleSmall"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="切換權限:托育中心"
+                android:id="@+id/button10"
+                android:layout_weight="0.5"
+                android:background="#fea5c1"
+                android:onClick="btn_babycenter"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="0.8"
+        android:background="#909090"></LinearLayout>
+</LinearLayout>

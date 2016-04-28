@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\visa.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\drawable-xhdpi-v4\\visa.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\discover.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\drawable-xhdpi-v4\\discover.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\cc_back.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\drawable-xhdpi-v4\\cc_back.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\master_card.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\drawable-xhdpi-v4\\master_card.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amex.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\drawable-xhdpi-v4\\amex.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\unknown_cc.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\drawable-xhdpi-v4\\unknown_cc.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\amex_back.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\drawable-xhdpi-v4\\amex_back.png"
+    },
+    {
+        "merged": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\diners_club.png",
+        "source": "D:\\newandroidex\\Work\\CreditCardEntryDemo\\build\\intermediates\\exploded-aar\\Work\\CreditCardEntry\\unspecified\\res\\drawable-xhdpi-v4\\diners_club.png"
+    }
+]
